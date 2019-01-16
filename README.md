@@ -6,3 +6,5 @@ premiere modif
 et maintenent une modif depuis git hub
 
 modif depuis machine locale
+
+deuxieme modif à distance
